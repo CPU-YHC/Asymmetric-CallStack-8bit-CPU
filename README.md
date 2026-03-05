@@ -1,9 +1,9 @@
 # Asymmetric-CallStack-8bit-CPU
-Turing-Complete 8-bit CPU from 12K+ NAND Gates: Asymmetric 10-bit Addressing &amp; 16-Level Call Stack with Full Toolchain – Solo Built by a 12-Year-Old in 4 Weeks
+Turing-Complete 8-bit CPU from 12K+ NAND Gates: Asymmetric 10-bit Addressing &amp; 16-Level Call Stack with Full Toolchain – Solo Built by a 12-Year-Old in 12 days
 
 > **Repository Management Notice**
 >
-> This repository is maintained by the parent of the **12-year-old** creator. All technical content, architectural design, and implementation details were **100% independently completed** by the creator after 1.5 years of **self-directed learning through online video tutorials**, within just **4 weeks of after-school time**.
+> This repository is maintained by the parent of the **12-year-old** creator. All technical content, architectural design, and implementation details were **100% independently completed** by the creator after 1.5 years of **self-directed learning through online video tutorials**, within just **12 days of after-school time**.
 >
 > Only the **compiler** framework was initially **AI-assisted**, but all logic, semantics, structure, and implementation issues were **independently debugged, refactored, and optimized by the creator himself**, ensuring complete understanding and full control over the entire CPU system.
 >
@@ -19,7 +19,7 @@ This project showcases an **8-bit Turing-Complete CPU** built entirely **bottom-
 
 Unlike traditional instructional 8-bit CPUs, this architecture overcomes conventional addressing limits by innovatively designing an **Asymmetric 10-bit Addressing System** and a **16-level Hardware Call Stack**. This design natively supports complex recursive calls and enables a larger instruction space. Beyond the hardware, the creator independently developed a **complete software toolchain**, including the Instruction Set Architecture (ISA) definition, Assembler, and a Compiler converting a high-level language to assembly.
 
-**Global Rarity:** This is one of the few projects of its kind—a full-stack engineering practice from foundational logic gates to a complete computer system—completed **independently** by a **12-year-old** with **no external mentorship**, relying solely on 1.5 years of self-study and executed during **4 weeks of after-school** time.
+**Global Rarity:** This is one of the few projects of its kind—a full-stack engineering practice from foundational logic gates to a complete computer system—completed **independently** by a **12-year-old** with **no external mentorship**, relying solely on 1.5 years of self-study and executed during **12 days of after-school** time.
 
 <img width="2719" height="773" alt="YHC" src="https://github.com/user-attachments/assets/1353ea63-d480-4b93-aba4-b1e719f79fc7" />
 Figure: Fibonacci & 5! = 120 ◎ Nov. 24, 2025
@@ -105,7 +105,7 @@ Independently written, responsible for symbol parsing, label address allocation,
 
 As parents, the **happiest moment** was seeing the **pure joy on our child's face after solving a stubborn problem**. In his own words: "**I finally succeeded after so, so many failures**."
 
-We **witnessed** his **complete dedication** over these four weeks: whether walking, eating, or even in his sleep, his brain was racing, designing the circuit logic.
+We **witnessed** his **complete dedication** over these 12 days: whether walking, eating, or even in his sleep, his brain was racing, designing the circuit logic.
 
 Honestly, **we know nothing** about CPU hardware design. It wasn't until **November 16, 2025**, that he excitedly rushed over, yelling: "**Dad, Dad, I did it! I made a Turing-complete CPU, come look!**" We stared at the complex wiring on the screen, completely clueless about what it meant. Out of curiosity, during a relaxed Sunday, I took a screenshot and asked an AI, "**What is this?**"
 
